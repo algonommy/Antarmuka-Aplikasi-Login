@@ -12,5 +12,8 @@ Alur Fitur Login:
 2. Memvalidasi masukan.
 3. Menampilkan halaman home.
 
-Repositori ini merupakan bagian dari `Martrikulasi` studi kasus antarmuka aplikasi login kelas [DICODING](dicoding.com)  
+### Tampilan antarmuka login
+![Tampilan Login](https://github.com/algonommy/Antarmuka-Aplikasi-Login/blob/main/assets/images/Tampilan%20halaman%20login.jpeg)
+
+Repositori ini merupakan bagian dari `Martrikulasi Program BANGKIT` studi kasus antarmuka aplikasi login kelas [DICODING](dicoding.com)  
 Jika berminat mengikuti kelas silahkan klik tautan berikut [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/academies/237)
