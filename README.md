@@ -1,2 +1,7 @@
-# Antarmuka-Aplikasi-Login
-Repositori ini merupakan studi kasus antarmuka aplikasi login kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software DICODING
+# Aplikasi-Login
+Sebuah aplikasi dengan fitur login.
+
+Alur Fitur Login:
+1. Memasukkan email dan password
+2. Memvalidasi masukan.
+3. Menampilkan halaman hone.
