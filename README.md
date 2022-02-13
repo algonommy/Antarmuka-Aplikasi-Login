@@ -17,3 +17,5 @@ Alur Fitur Login:
 
 Repositori ini merupakan bagian dari `Martrikulasi Program BANGKIT` studi kasus antarmuka aplikasi login kelas [DICODING](dicoding.com)  
 Jika berminat mengikuti kelas silahkan klik tautan berikut [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/academies/237)
+
+<img src="https://www.dicoding.com/blog/wp-content/uploads/2020/12/Cover.png" />
